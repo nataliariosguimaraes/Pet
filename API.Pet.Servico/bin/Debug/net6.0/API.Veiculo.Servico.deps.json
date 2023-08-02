@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "API.Veiculo.Servico/1.0.0": {
+        "dependencies": {
+          "API.Veiculo.Dominio": "1.0.0",
+          "API.Veiculo.Infra": "1.0.0"
+        },
+        "runtime": {
+          "API.Veiculo.Servico.dll": {}
+        }
+      },
+      "API.Veiculo.Dominio/1.0.0": {
+        "runtime": {
+          "API.Veiculo.Dominio.dll": {}
+        }
+      },
+      "API.Veiculo.Infra/1.0.0": {
+        "dependencies": {
+          "API.Veiculo.Dominio": "1.0.0",
+          "API.Veiculo.Utilitarios": "1.0.0"
+        },
+        "runtime": {
+          "API.Veiculo.Infra.dll": {}
+        }
+      },
+      "API.Veiculo.Utilitarios/1.0.0": {
+        "dependencies": {
+          "API.Veiculo.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "API.Veiculo.Utilitarios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "API.Veiculo.Servico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "API.Veiculo.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "API.Veiculo.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "API.Veiculo.Utilitarios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

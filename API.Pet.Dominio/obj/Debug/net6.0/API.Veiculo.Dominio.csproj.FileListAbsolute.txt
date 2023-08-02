@@ -1,0 +1,12 @@
+D:\Estudo\Projetos\Mongo\Veiculos\API.Veiculo.Dominio\obj\Debug\net6.0\API.Veiculo.Dominio.csproj.AssemblyReference.cache
+D:\Estudo\Projetos\Mongo\Veiculos\API.Veiculo.Dominio\obj\Debug\net6.0\API.Veiculo.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\Projetos\Mongo\Veiculos\API.Veiculo.Dominio\obj\Debug\net6.0\API.Veiculo.Dominio.AssemblyInfoInputs.cache
+D:\Estudo\Projetos\Mongo\Veiculos\API.Veiculo.Dominio\obj\Debug\net6.0\API.Veiculo.Dominio.AssemblyInfo.cs
+D:\Estudo\Projetos\Mongo\Veiculos\API.Veiculo.Dominio\obj\Debug\net6.0\API.Veiculo.Dominio.csproj.CoreCompileInputs.cache
+D:\Estudo\Projetos\Mongo\Veiculos\API.Veiculo.Dominio\bin\Debug\net6.0\API.Veiculo.Dominio.deps.json
+D:\Estudo\Projetos\Mongo\Veiculos\API.Veiculo.Dominio\bin\Debug\net6.0\API.Veiculo.Dominio.dll
+D:\Estudo\Projetos\Mongo\Veiculos\API.Veiculo.Dominio\bin\Debug\net6.0\API.Veiculo.Dominio.pdb
+D:\Estudo\Projetos\Mongo\Veiculos\API.Veiculo.Dominio\obj\Debug\net6.0\API.Veiculo.Dominio.dll
+D:\Estudo\Projetos\Mongo\Veiculos\API.Veiculo.Dominio\obj\Debug\net6.0\refint\API.Veiculo.Dominio.dll
+D:\Estudo\Projetos\Mongo\Veiculos\API.Veiculo.Dominio\obj\Debug\net6.0\API.Veiculo.Dominio.pdb
+D:\Estudo\Projetos\Mongo\Veiculos\API.Veiculo.Dominio\obj\Debug\net6.0\ref\API.Veiculo.Dominio.dll

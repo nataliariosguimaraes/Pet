@@ -1,0 +1,17 @@
+D:\Estudo\Projetos\Mongo\Veiculos\API.Veiculo.Infra\obj\Debug\net6.0\API.Veiculo.Infra.csproj.AssemblyReference.cache
+D:\Estudo\Projetos\Mongo\Veiculos\API.Veiculo.Infra\obj\Debug\net6.0\API.Veiculo.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\Projetos\Mongo\Veiculos\API.Veiculo.Infra\obj\Debug\net6.0\API.Veiculo.Infra.AssemblyInfoInputs.cache
+D:\Estudo\Projetos\Mongo\Veiculos\API.Veiculo.Infra\obj\Debug\net6.0\API.Veiculo.Infra.AssemblyInfo.cs
+D:\Estudo\Projetos\Mongo\Veiculos\API.Veiculo.Infra\obj\Debug\net6.0\API.Veiculo.Infra.csproj.CoreCompileInputs.cache
+D:\Estudo\Projetos\Mongo\Veiculos\API.Veiculo.Infra\bin\Debug\net6.0\API.Veiculo.Infra.deps.json
+D:\Estudo\Projetos\Mongo\Veiculos\API.Veiculo.Infra\bin\Debug\net6.0\API.Veiculo.Infra.dll
+D:\Estudo\Projetos\Mongo\Veiculos\API.Veiculo.Infra\bin\Debug\net6.0\API.Veiculo.Infra.pdb
+D:\Estudo\Projetos\Mongo\Veiculos\API.Veiculo.Infra\bin\Debug\net6.0\API.Veiculo.Dominio.dll
+D:\Estudo\Projetos\Mongo\Veiculos\API.Veiculo.Infra\bin\Debug\net6.0\API.Veiculo.Utilitarios.dll
+D:\Estudo\Projetos\Mongo\Veiculos\API.Veiculo.Infra\bin\Debug\net6.0\API.Veiculo.Dominio.pdb
+D:\Estudo\Projetos\Mongo\Veiculos\API.Veiculo.Infra\bin\Debug\net6.0\API.Veiculo.Utilitarios.pdb
+D:\Estudo\Projetos\Mongo\Veiculos\API.Veiculo.Infra\obj\Debug\net6.0\API.Veiculo.Infra.csproj.CopyComplete
+D:\Estudo\Projetos\Mongo\Veiculos\API.Veiculo.Infra\obj\Debug\net6.0\API.Veiculo.Infra.dll
+D:\Estudo\Projetos\Mongo\Veiculos\API.Veiculo.Infra\obj\Debug\net6.0\refint\API.Veiculo.Infra.dll
+D:\Estudo\Projetos\Mongo\Veiculos\API.Veiculo.Infra\obj\Debug\net6.0\API.Veiculo.Infra.pdb
+D:\Estudo\Projetos\Mongo\Veiculos\API.Veiculo.Infra\obj\Debug\net6.0\ref\API.Veiculo.Infra.dll
